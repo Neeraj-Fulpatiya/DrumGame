@@ -107,31 +107,31 @@ document.addEventListener("keydown",function(event){
             //     var clip1=new Audio("sounds/clip1");
             //     clip1.play();
             //     break;
-                case "w":
+                case "W":
                     var clip1=new Audio("sounds/clip1.mp3");
                     clip1.play();
                     break;
-                    case "a":
+                    case "A":
                         var clip2=new Audio("sounds/clip2.mp3");
                         clip2.play();
                         break;
-                        case "s":
+                        case "S":
                             var clip3=new Audio("sounds/nrj.mp3");
                             clip3.play();
                             break;
-                            case "d":
+                            case "D":
                                 var clip4=new Audio("sounds/clip4.mp3");
                                 clip4.play();
                                 break;
-                                case "j":
+                                case "J":
                                     var clip5=new Audio("sounds/clip5.mp3");
                                     clip5.play();
                                     break;
-                                    case "k":
+                                    case "K":
                                         var clip6=new Audio("sounds/clip6.mp3");
                                         clip6.play();
                                         break;   
-     case "l":
+     case "L":
     var clip7=new Audio("sounds/clip7.mp3");
     clip7.play();
     break;
